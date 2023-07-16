@@ -10,7 +10,14 @@ div{
 }
 .subTitle, #title{
     background-color: beige;
-    /* width: fit-content; */
     text-align: center;
+}
+
+#title{
+    background-color: black;
+    color: #2dada0;
+    font-size: xx-large;
+    font-family: fantasy;
+    font-weight: bold;
 }
 
