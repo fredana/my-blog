@@ -9,7 +9,8 @@ div{
     margin-left: 50px;
 }
 .subTitle, #title{
-    
+    background-color: beige;
+    /* width: fit-content; */
     text-align: center;
 }
 
