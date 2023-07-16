@@ -1,11 +1,13 @@
 body{
     background-color: rgb(254, 254, 254);
-    
+    width: 1200px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 div{
-    /* position: relative; */
     width: 1200px;
+}
+.subTitle{
+    
     text-align: center;
 }
-
