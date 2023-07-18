@@ -29,12 +29,12 @@ submitBtn()
 
 function confirmMessage(){
     const list2 = document.getElementById("fill");
-    list2.innerHTML = 'THANKS! WE WILL RESPOND WITHIN 2 BUSINESS DAYS.'
-    list2.style.color = 'green'
-    list2.style.backgroundColor = 'cyan'
-    list2.style.fontSize = '30px'
+    list2.innerHTML = 'THANKS FOR CONTACTING US TODAY! WE WILL RESPOND WITHIN 2 BUSINESS DAYS.'
+    list2.style.color = 'white'
+    list2.style.backgroundColor = 'gray'
+    list2.style.fontSize = '20px'
     list2.style.fontFamily = 'cursive'
-    list2.style.width = '300px'
+    list2.style.width = '400px'
 }
 
 function jeconfirm(){
