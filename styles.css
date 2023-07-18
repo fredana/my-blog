@@ -53,5 +53,6 @@ body, html {
 #myNavbar{
     background-color: rgb(238, 243, 244);
     width: fit-content;
+    border: 2px solid;
 }
 
