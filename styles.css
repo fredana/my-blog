@@ -36,7 +36,7 @@ body, html {
 .my_work {
     cursor: pointer;
     padding: 20px;
-    border: 20px solid tan;
+    border: 5px solid tan;
     width: 800px;
     height: 200px;
     
